@@ -56,6 +56,8 @@ Windows:
 "C:\\Users\\username\\Documents\\MyVault"
 ```
 
+NOTE FOR WINDOWS: Microsoft OneDrive may cause issues with the vault being visible to the MCP when starting up. Paths not within OneDrive are reccomended.
+
 Restart Claude for Desktop after saving the configuration. You should see the hammer icon appear, indicating the server is connected.
 
 If you have connection issues, check the logs at:
